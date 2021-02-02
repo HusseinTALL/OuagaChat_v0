@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043391797425",
+    "project_id": "ouagachatapp",
+    "storage_bucket": "ouagachatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043391797425:android:1327e4e18d04ebdf892a90",
+        "android_client_info": {
+          "package_name": "com.alkebulan.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043391797425-q08o9njq3pv4pr88mi362c9e0e6jku7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEVFNgIGL_TM4AYcwteR15Eh-OV8fJK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043391797425-q08o9njq3pv4pr88mi362c9e0e6jku7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
